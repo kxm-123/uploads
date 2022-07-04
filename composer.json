@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Kxm123\\Uploads\\": "src/"
+            "yuan\\": "src/"
         }
     },
     "authors": [

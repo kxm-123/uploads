@@ -1,5 +1,5 @@
 <?php 
- namespace Kxm123\Uploads\src\oss;
+ namespace yuan\oss;
  class OssYun
  {
     public static function upfile($path,$type){
