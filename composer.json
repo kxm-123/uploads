@@ -1,0 +1,24 @@
+{
+    "name": "kxm-123/uploads",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kxm123\\Uploads\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kxm-123",
+            "email": "107617029+kxm-123@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        
+        "qcloud/cos-sdk-v5": ">=2.0",
+        "aliyuncs/oss-sdk-php": "^2.4.0",
+        "qiniu/php-sdk": "^7.3",
+        "mrwanghongda/oss-sdk": "^1.0"
+
+    }
+}
